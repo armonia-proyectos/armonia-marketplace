@@ -1,0 +1,17 @@
+{
+  "name": "armonia",
+  "owner": {
+    "name": "ArmonIA"
+  },
+  "plugins": [
+    {
+      "name": "mod-tareas-periodicas",
+      "description": "Para quien tiene obligaciones que se repiten (facturas, impuestos, renovaciones) y no quiere olvidarlas.",
+      "source": {
+        "source": "github",
+        "repo": "armonia-proyectos/mod-tareas-periodicas",
+        "sha": "30f0227f9bc65f0d40f8c7ab92a6482d708578e0"
+      }
+    }
+  ]
+}
